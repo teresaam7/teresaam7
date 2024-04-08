@@ -1,6 +1,10 @@
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+<br></br>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Teresa;She/her;Software+Engineering+Student;Car+enthusiast" alt="Computer Engineering Student, Terizza"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Teresa;She/her;Software+Engineering+Student" alt="Computer Engineering Student, Terizza"></a>
 </div>
 
 ---
