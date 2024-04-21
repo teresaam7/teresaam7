@@ -24,7 +24,7 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
- <h3><p align="center">Total Profile Visit: </p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/teresaam7/count.svg"/>
-</p>
+
+![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=teresaam7&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teresaam7&layout=compact&theme=tokyonight&langs_count=8)
+
