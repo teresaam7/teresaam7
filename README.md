@@ -10,16 +10,31 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+<h2 align="center">🌟 About Me</h2>
 
 ###
 
-🤖 I am interested in areas related to machine learning and AI & Tooling & Automation.\
-☕ In my free time, I like to paint, work on personal projects related to the informatics area, and hit the gym.\
-👾 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
-🔮 I enjoy exploring a variety of media and finding new sources of inspiration for projects.
+🤖 I am interested in machine learning and AI & Tooling & Automation.\
+☕ In my free time,  I enjoy painting, working on personal projects, and hit the gym.\
+👾 Collaborative team player, excited to engage in new projects and ideas.\
+🔮 I love exploring diverse media for project inspiration.
 
 ###
+
+<h2 align="center"> 🚀 Projects</h2>
+
+###
+
+| UC   | Name                                                 | Description |
+|------|------------------------------------------------------|-------------|
+| PROG   | [ImageManipulation](https://github.com/teresaam7/PROJECT_PROG)   | A C++ image manipulation system designed for representing and processing RGB color images with 8-bit depth per channel.       |
+| LDTS | [SearchingForKey-Ty](https://github.com/teresaam7/project-l04gr08)           | In "_Searching for Key-ty_", Mari embarks on a thrilling quest to rescue her kidnapped cat. Navigate through eerie rooms in a haunted mansion, collect keys, and dodge monsters to reunite with her beloved kitten.         |
+| AED  | [Schedule](https://github.com/teresaam7/Schedule_aed) | A schedule management tool for LEIC students that handles class balancing, processes schedule change requests, and provides insights into data structures.       |
+| AED  | [AirTravel](https://github.com/teresaam7/AirTravel_aed)       | A C++-based database management system for airlines, built with multiple data structures to handle complex operations.      |
+| DA   | [WaterSupply](https://github.com/teresaam7/waterSupply_da)| The system features a consultation menu for analyzing urban water management, offering options to assess water flow capacity, identify deficits, balance pipe flow, and locate cities affected by reservoir or pumping station issues.       |
+| LTW  | [SecondCharm](https://github.com/teresaam7/ltw-project-2024-ltw04g04) | A website designed for buying and selling items, enabling users to register, manage profiles, list products, and communicate in real time. |
+| ES   | [SeedYouLater](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T3) | "_Seed You Later_" is a revolutionary gardening platform that organizes plant collections and provides personalized care reminders. By sending notifications and essential information, the app ensures that plants receive everything needed to thrive, fostering a deeper connection with nature. |
+
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
