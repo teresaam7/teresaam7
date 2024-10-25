@@ -34,6 +34,7 @@
 | DA   | [WaterSupply](https://github.com/teresaam7/waterSupply_da)| The system features a consultation menu for analyzing urban water management, offering options to assess water flow capacity, identify deficits, balance pipe flow, and locate cities affected by reservoir or pumping station issues.       |
 | LTW  | [SecondCharm](https://github.com/teresaam7/ltw-project-2024-ltw04g04) | A website designed for buying and selling items, enabling users to register, manage profiles, list products, and communicate in real time. |
 | ES   | [SeedYouLater](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T3) | "_Seed You Later_" is a revolutionary gardening platform that organizes plant collections and provides personalized care reminders. By sending notifications and essential information, the app ensures that plants receive everything needed to thrive, fostering a deeper connection with nature. |
+| LCOM  | [Lab-rinth](https://github.com/teresaam7/Lab-rinth_lcom) | Lab-rinth is a 2D game where players must escape a maze within a time limit, using a lantern to navigate corridors, find buttons to unlock doors, and ultimately reach the exit. |
 
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
