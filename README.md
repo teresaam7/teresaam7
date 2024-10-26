@@ -16,7 +16,7 @@
 
 🤖 I am interested in machine learning and AI & Automation.\
 ☕ In my free time,  I enjoy drawing, working on personal projects, and hit the gym.\
-👾 Collaborative team player, excited to engage in new projects and ideas.\
+👾 Collaborative team player, excited to engage in new projects and ideas.
 
 ###
 
