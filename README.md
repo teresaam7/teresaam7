@@ -35,6 +35,8 @@
 | ES   | [SeedYouLater](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T3) | "_Seed You Later_" is a revolutionary gardening platform that organizes plant collections and provides personalized care reminders. By sending notifications and essential information, the app ensures that plants receive everything needed to thrive, fostering a deeper connection with nature. |
 | LCOM  | [Lab-rinth](https://github.com/teresaam7/Lab-rinth_lcom) | Lab-rinth is a 2D game where players must escape a maze within a time limit, using a lantern to navigate corridors, find buttons to unlock doors, and ultimately reach the exit. |
 | RCOM  | [RCOM1](https://github.com/teresaam7/rcom-proj1) | An application that enables file exchange between computers over a serial port. |
+| PFL  | [Cities](https://github.com/teresaam7/pfl-proj1) | This project, implemented in Haskell, provides algorithms for road map manipulation, including pathfinding, connectivity analysis, and solving the Traveling Salesman Problem.  |
+| PFL  | [LOT](https://github.com/teresaam7/pfl-proj2) | Line of Three (LOT) is a strategic game implemented in Prolog, played on a 7x7 orthogonal grid. The objective is to form a line of three stacks, each containing exactly two pieces.  |
 
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
