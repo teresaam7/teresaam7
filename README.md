@@ -37,6 +37,7 @@
 | RCOM  | [RCOM1](https://github.com/teresaam7/rcom-proj1) | An application that enables file exchange between computers over a serial port. |
 | PFL  | [Cities](https://github.com/teresaam7/pfl-proj1) | This project, implemented in Haskell, provides algorithms for road map manipulation, including pathfinding, connectivity analysis, and solving the Traveling Salesman Problem.  |
 | PFL  | [LOT](https://github.com/teresaam7/pfl-proj2) | Line of Three (LOT) is a strategic game implemented in Prolog, played on a 7x7 orthogonal grid. The objective is to form a line of three stacks, each containing exactly two pieces.  |
+| LBAW | [WhatsUp](https://github.com/teresaam7/WhatsUp) | WhatsUP is a collaborative news platform where users join interest-based Hubs to share news, discuss topics, and build reputation through interactions, boosting credibility and encouraging quality contributions. |
 
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
