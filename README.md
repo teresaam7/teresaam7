@@ -14,8 +14,8 @@
 
 ###
 
-💻 I’m into web and mobile development — I enjoy both designing interfaces and solving the logic behind them.
-🎨 In my free time, I like drawing, working on personal projects, and doing sports.
+💻 I’m into web and mobile development — I enjoy both designing interfaces and solving the logic behind them. <br>
+🎨 In my free time, I like drawing, working on personal projects, and doing sports. <br>
 🤝 I’m a team player, always open to new ideas and ready for challenges.
 ###
 
