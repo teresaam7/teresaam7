@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600">
+    <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/pixel-Art-3/drink.gif" width="600">
 </div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Teresa;Informatic+Engineering+Student" alt="Computer Engineering Student, Terizza"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&color=%23660020&size=30&center=true&vCenter=true&width=500&lines=I'm+Teresa;Informatic+Engineering+Student" alt="Computer Engineering Student, Terizza"></a>
 </div>
 
 ---
@@ -14,10 +14,9 @@
 
 ###
 
-🤖 I am interested in machine learning and AI & Automation.\
-☕ In my free time,  I enjoy drawing, working on personal projects, and hit the gym.\
-👾 Collaborative team player, excited to engage in new projects and ideas.
-
+💻 I’m into web and mobile development — I enjoy both designing interfaces and solving the logic behind them.
+🎨 In my free time, I like drawing, working on personal projects, and doing sports.
+🤝 I’m a team player, always open to new ideas and ready for challenges.
 ###
 
 <h2 align="center"> 🚀 Projects</h2>
@@ -40,10 +39,7 @@
 | LBAW | [WhatsUp](https://github.com/teresaam7/WhatsUp) | WhatsUP is a collaborative news platform where users join interest-based Hubs to share news, discuss topics, and build reputation through interactions, boosting credibility and encouraging quality contributions. |
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
-![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=teresaam7&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teresaam7&layout=compact&theme=tokyonight&langs_count=8)
+![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=teresaam7&show_icons=true&theme=monokai) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teresaam7&layout=compact&theme=monokai&langs_count=8)
 
