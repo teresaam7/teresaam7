@@ -41,6 +41,7 @@
 | CPD | [Parallel/Distributed Computing](https://github.com/teresaam7/cpd-g18) | Assign1: Performance analysis of matrix multiplication methods (basic, row-based, block) with parallelism in C/C++ and Java. Assign2: Distributed chat app with client-server model, thematic rooms, and integrated chat bots. |
 | COMP | [Compiler](https://github.com/teresaam7/comp2025-5e) | Extension of a compiler for a Java-like language targeting the JVM. New language features were implemented, along with optimizations in code generation and custom test suites using the Jasmin assembly format. |
 | IA | [HospitalOptimizer](https://github.com/teresaam7/ia-proj1) | AI-powered hospital admission scheduler that applies metaheuristic algorithms—hill climbing, simulated annealing, tabu search, and genetic algorithms—to optimize patient allocation across wards. The system balances temporal and spatial workload while minimizing delays and operating room inefficiencies, |
+| IA | [PredictionOfSmokerStatus](https://github.com/teresaam7/IA-PROJ2) | Supervised learning system for predicting smoker status from bio-signals. Explores multiple classifiers (LightGBM, Neural Network, Logistic Regression, Naive Bayes, k-NN) using data from the Kaggle S3E24 dataset. |
 | CG | [FireStation](https://github.com/teresaam7/cg-t05-g07) | Interactive scene built with OpenGL and JavaScript, featuring a fire station with a helipad, a user-controlled helicopter, a lake, and a procedurally generated forest. Link for the demo: [YoutubeVideo](https://www.youtube.com/watch?v=Alm6Kqazb-8)  |
 
 
