@@ -13,10 +13,7 @@
 <h2 align="center">🌟 About Me</h2>
 
 ###
-
-💻 I enjoy building web and mobile apps — from designing clean interfaces to developing smart logic, scalable backends, and cloud-based solutions.<br>
-🎨 In my free time, I like drawing, working on personal projects, and doing sports. <br>
-🤝 I’m a team player, always open to new ideas and ready for challenges.
+Driven by curiosity and creativity — I build for the web, explore computer graphics, and enjoy collaborating with others to turn complex ideas into clean, clever software that feels intuitive to use.
 ###
 
 <h2 align="center"> 🚀 Projects</h2>
