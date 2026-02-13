@@ -1,48 +1,129 @@
 <div align="center">
-    <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/pixel-Art-3/drink.gif" width="600">
-</div>
+  
+  <!-- GIF animado -->
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/pixel-Art-3/drink.gif" width="500">
+  
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&color=%23660020&size=32&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Teresa+✨;Informatics+Engineering+Student;Building+magic+with+code+🪄" alt="Typing SVG">
+  </a>
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&color=%23660020&size=30&center=true&vCenter=true&width=500&lines=I'm+Teresa;Informatic+Engineering+Student" alt="Computer Engineering Student, Terizza"></a>
+
 </div>
 
 ---
 
-###
+### 🌙 About Me
 
-<h2 align="center">🌟 About Me</h2>
+<table>
+<tr>
+<td width="70%">
 
-###
-Driven by curiosity and creativity — I build for the web, explore computer graphics, and enjoy collaborating with others to turn complex ideas into clean, clever software that feels intuitive to use.
-###
+✨ **Driven by curiosity and creativity**  
 
-<h2 align="center"> 🚀 Projects</h2>
+I build for the web, explore computer graphics, and collaborate with others to transform complex ideas into intuitive software.
 
-###
+- 🎓 Informatics Engineering Student
+- 💻 Passionate about clean code & clever solutions
+- 🎨 Exploring the intersection of tech & creativity
+- 🌱 Always learning, always growing
 
-| UC   | Name                                                 | Description |
-|------|------------------------------------------------------|-------------|
-| PROG   | [ImageManipulation](https://github.com/teresaam7/PROJECT_PROG)   | A C++ image manipulation system designed for representing and processing RGB color images with 8-bit depth per channel.       |
-| LDTS | [SearchingForKey-Ty](https://github.com/teresaam7/project-l04gr08)           | In "_Searching for Key-ty_", Mari embarks on a thrilling quest to rescue her kidnapped cat. Navigate through eerie rooms in a haunted mansion, collect keys, and dodge monsters to reunite with her beloved kitten.         |
-| AED  | [Schedule](https://github.com/teresaam7/Schedule_aed) | A schedule management tool for LEIC students that handles class balancing, processes schedule change requests, and provides insights into data structures.       |
-| AED  | [AirTravel](https://github.com/teresaam7/AirTravel_aed)       | A C++-based database management system for airlines, built with multiple data structures to handle complex operations.      |
-| DA   | [WaterSupply](https://github.com/teresaam7/waterSupply_da)| The system features a consultation menu for analyzing urban water management, offering options to assess water flow capacity, identify deficits, balance pipe flow, and locate cities affected by reservoir or pumping station issues.       |
-| LTW  | [SecondCharm](https://github.com/teresaam7/ltw-project-2024-ltw04g04) | A website designed for buying and selling items, enabling users to register, manage profiles, list products, and communicate in real time. |
-| ES   | [SeedYouLater](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T3) | "_Seed You Later_" is a revolutionary gardening platform that organizes plant collections and provides personalized care reminders. By sending notifications and essential information, the app ensures that plants receive everything needed to thrive, fostering a deeper connection with nature. |
-| LCOM  | [Lab-rinth](https://github.com/teresaam7/Lab-rinth_lcom) | Lab-rinth is a 2D game where players must escape a maze within a time limit, using a lantern to navigate corridors, find buttons to unlock doors, and ultimately reach the exit. |
-| RCOM  | [RCOM1](https://github.com/teresaam7/rcom-proj1) | An application that enables file exchange between computers over a serial port. |
-| PFL  | [Cities](https://github.com/teresaam7/pfl-proj1) | This project, implemented in Haskell, provides algorithms for road map manipulation, including pathfinding, connectivity analysis, and solving the Traveling Salesman Problem.  |
-| PFL  | [LOT](https://github.com/teresaam7/pfl-proj2) | Line of Three (LOT) is a strategic game implemented in Prolog, played on a 7x7 orthogonal grid. The objective is to form a line of three stacks, each containing exactly two pieces.  |
-| IPC | [Eco-Neighbours](https://github.com/teresaam7/IPC) | Interactive mobile/web app promoting sustainability through community challenges. Features a novel UI that encourages eco-friendly habits and local engagement. |
-| LBAW | [WhatsUp](https://github.com/teresaam7/WhatsUp) | WhatsUP is a collaborative news platform where users join interest-based Hubs to share news, discuss topics, and build reputation through interactions, boosting credibility and encouraging quality contributions. |
-| CPD | [Parallel/Distributed Computing](https://github.com/teresaam7/cpd-g18) | Assign1: Performance analysis of matrix multiplication methods (basic, row-based, block) with parallelism in C/C++ and Java. Assign2: Distributed chat app with client-server model, thematic rooms, and integrated chat bots. |
-| COMP | [Compiler](https://github.com/teresaam7/comp2025-5e) | Extension of a compiler for a Java-like language targeting the JVM. New language features were implemented, along with optimizations in code generation and custom test suites using the Jasmin assembly format. |
-| IA | [HospitalOptimizer](https://github.com/teresaam7/ia-proj1) | AI-powered hospital admission scheduler that applies metaheuristic algorithms—hill climbing, simulated annealing, tabu search, and genetic algorithms—to optimize patient allocation across wards. The system balances temporal and spatial workload while minimizing delays and operating room inefficiencies, |
-| IA | [PredictionOfSmokerStatus](https://github.com/teresaam7/IA-PROJ2) | Supervised learning system for predicting smoker status from bio-signals. Explores multiple classifiers (LightGBM, Neural Network, Logistic Regression, Naive Bayes, k-NN) using data from the Kaggle S3E24 dataset. |
-| CG | [FireStation](https://github.com/teresaam7/cg-t05-g07) | Interactive scene built with OpenGL and JavaScript, featuring a fire station with a helipad, a user-controlled helicopter, a lake, and a procedurally generated forest. Link for the demo: [YoutubeVideo](https://www.youtube.com/watch?v=Alm6Kqazb-8)  |
+</td>
+<td width="30%">
 
 
+<img src="./octocat.png" width="400">
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/pixel-Art-3/drink.gif" width="200">
 
-![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=teresaam7&show_icons=true&theme=monokai) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teresaam7&layout=compact&theme=monokai&langs_count=8)
+</td>
+</tr>
+</table>
 
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=swi-prolog&logoColor=white)
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎮 [Lab-rinth](https://github.com/teresaam7/Lab-rinth_lcom)
+2D maze escape game with time limit mechanics. Navigate corridors using a lantern, unlock doors, and find your way out!
+
+**Tech:** C, Minix
+
+</td>
+<td width="50%">
+
+#### 🔥 [FireStation](https://github.com/teresaam7/cg-t05-g07)
+Interactive 3D scene with helicopter controls, procedural forest generation, and dynamic environments.
+
+**Tech:** OpenGL, JavaScript  
+[🎥 Demo](https://www.youtube.com/watch?v=Alm6Kqazb-8)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🌱 [Seed You Later](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T3)
+Revolutionary gardening platform with personalized care reminders and plant organization.
+
+**Tech:** Flutter, Firebase
+
+</td>
+<td width="50%">
+
+#### 🤖 [Compiler](https://github.com/teresaam7/comp2025-5e)
+Extended Java-like compiler targeting JVM with optimizations in code generation.
+
+**Tech:** Java, Jasmin
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+  **[📚 View All Projects →](./PROJECTS.md)**
+  
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teresaam7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teresaam7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=6" height="180em">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teresaam7&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" height="180em">
+</div>
+
+---
+
+<div align="center">
+  
+  ✨ *"Code is poetry, and every project tells a story"* ✨
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-teresaam7-181717?style=for-the-badge&logo=github)](https://github.com/teresaam7)
+  
+</div>
