@@ -1,14 +1,5 @@
 <div align="center">
-  
-  <!-- GIF animado -->
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/pixel-Art-3/drink.gif" width="500">
-  
-  <!-- Typing animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&color=%23660020&size=32&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Teresa+✨;Informatics+Engineering+Student;Building+magic+with+code+🪄" alt="Typing SVG">
-  </a>
-
-
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&color=%23660020&size=30&center=true&vCenter=true&width=500&lines=I'm+Teresa;Informatic+Engineering+Student" alt="Computer Engineering Student, Terizza"></a>
 </div>
 
 ---
@@ -17,23 +8,22 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="50%">
 
 ✨ **Driven by curiosity and creativity**  
 
 I build for the web, explore computer graphics, and collaborate with others to transform complex ideas into intuitive software.
 
-- 🎓 Informatics Engineering Student
-- 💻 Passionate about clean code & clever solutions
-- 🎨 Exploring the intersection of tech & creativity
-- 🌱 Always learning, always growing
+- Informatics Engineering Student
+- Passionate about clean code & clever solutions
+- Exploring the intersection of tech & creativity
+- Always learning, always growing
 
 </td>
-<td width="30%">
+<td width="50%">
 
 
 <img src="./octocat.png" width="400">
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/pixel-Art-3/drink.gif" width="200">
 
 </td>
 </tr>
@@ -118,11 +108,8 @@ Extended Java-like compiler targeting JVM with optimizations in code generation.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teresaam7&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" height="180em">
 </div>
 
----
 
 <div align="center">
-  
-  ✨ *"Code is poetry, and every project tells a story"* ✨
   
   [![GitHub](https://img.shields.io/badge/GitHub-teresaam7-181717?style=for-the-badge&logo=github)](https://github.com/teresaam7)
   
