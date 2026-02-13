@@ -10,7 +10,7 @@
   
 </div>
 
----
+
 
 ## 🎓 Bachelor's Degree Projects
 
@@ -35,7 +35,7 @@
 | IA | [PredictionOfSmokerStatus](https://github.com/teresaam7/IA-PROJ2) | Supervised learning system for predicting smoker status from bio-signals. Explores multiple classifiers (LightGBM, Neural Network, Logistic Regression, Naive Bayes, k-NN) using data from the Kaggle S3E24 dataset. |
 | CG | [FireStation](https://github.com/teresaam7/cg-t05-g07) | Interactive scene built with OpenGL and JavaScript, featuring a fire station with a helipad, a user-controlled helicopter, a lake, and a procedurally generated forest. [🎥 Demo](https://www.youtube.com/watch?v=Alm6Kqazb-8)  |
 
----
+
 
 ## 🎓 Master's Degree Projects
 
@@ -44,7 +44,7 @@
 | SGI  | [Computer Graphics Lab](https://github.com/teresaam7/sgi) | **PW1:** Implementation of a 3D scene inspired by the "Lo-fi Girl" using Three.js with interactive GUI controls. **PW2:** Interactive underwater ecosystem featuring a submarine with user controls, multiple camera systems, procedurally generated corals using L-Systems, fish flocking behaviors, advanced lighting and shaders, and multi-level LOD system. |
 | SDLE | [Large Scale Distributed Systems](https://github.com/teresaam7/sdle) | Distributed shopping list system built with Elixir, implementing fault-tolerant and scalable solutions for large-scale distributed environments. |
 
----
+
 
 <div align="center">
   
