@@ -31,7 +31,7 @@ I build for the web, explore computer graphics, and collaborate with others to t
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -52,18 +52,19 @@ I build for the web, explore computer graphics, and collaborate with others to t
 <tr>
 <td width="50%">
 
-#### 🎮 [Lab-rinth](https://github.com/teresaam7/Lab-rinth_lcom)
-2D maze escape game with time limit mechanics. Navigate corridors using a lantern, unlock doors, and find your way out!
+#### 🕵️ [Hidden Mystery](https://github.com/teresaam7/Misterio_Oculto)
+Visual Novel and Murder Mystery game developed during Random Game Jam 2023. Explore a medieval village and solve a dark crime.
 
-**Tech:** C, Minix
+**Tech:** Game Maker Language  
+[🎮 Play](https://diana-nunes.itch.io/mistrio-oculto)
 
 </td>
 <td width="50%">
 
-#### 🔥 [FireStation](https://github.com/teresaam7/cg-t05-g07)
-Interactive 3D scene with helicopter controls, procedural forest generation, and dynamic environments.
+#### 🌊 [Underwater Ecosystem](https://github.com/teresaam7/sgi)
+Interactive 3D scene with submarine controls, procedural coral generation using L-Systems, and fish flocking behaviors.
 
-**Tech:** OpenGL, JavaScript  
+**Tech:** Three.js, WebGL  
 [🎥 Demo](https://www.youtube.com/watch?v=Alm6Kqazb-8)
 
 </td>
@@ -72,18 +73,18 @@ Interactive 3D scene with helicopter controls, procedural forest generation, and
 <tr>
 <td width="50%">
 
-#### 🌱 [Seed You Later](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T3)
-Revolutionary gardening platform with personalized care reminders and plant organization.
+#### 🏥 [HospitalOptimizer](https://github.com/teresaam7/ia-proj1)
+AI-powered hospital scheduler applying metaheuristic algorithms to optimize patient allocation and minimize inefficiencies.
 
-**Tech:** Flutter, Firebase
+**Tech:** Python
 
 </td>
 <td width="50%">
 
 #### 🤖 [Compiler](https://github.com/teresaam7/comp2025-5e)
-Extended Java-like compiler targeting JVM with optimizations in code generation.
+Extended compiler targeting JVM with code generation optimizations and custom test suites using Jasmin assembly.
 
-**Tech:** Java, Jasmin
+**Tech:** Java, Jasmin, ANTLR
 
 </td>
 </tr>
@@ -91,18 +92,13 @@ Extended Java-like compiler targeting JVM with optimizations in code generation.
 
 <div align="center">
   
-  **[📚 View All Projects →](./PROJECTS.md)**
+  **[View Projects →](./PROJECTS.md)**
   
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teresaam7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teresaam7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=6" height="180em">
-</div>
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teresaam7&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" height="180em">
