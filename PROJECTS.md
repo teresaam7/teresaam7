@@ -43,6 +43,7 @@
 |------|------------------------------------------------------|-------------|
 | SGI  | [Computer Graphics Lab](https://github.com/teresaam7/sgi) | **PW1:** Implementation of a 3D scene inspired by the "Lo-fi Girl" using Three.js with interactive GUI controls. **PW2:** Interactive underwater ecosystem featuring a submarine with user controls, multiple camera systems, procedurally generated corals using L-Systems, fish flocking behaviors, advanced lighting and shaders, and multi-level LOD system. |
 | SDLE | [Large Scale Distributed Systems](https://github.com/teresaam7/sdle) | Distributed shopping list system built with Elixir, implementing fault-tolerant and scalable solutions for large-scale distributed environments. |
+| AC   | [Basketball Prediction](https://github.com/teresaam7/ac) | Basketball analytics project implementing ML pipelines for: team ranking prediction (regression), head coach change detection (binary classification), and individual award winner prediction (binary classification). Includes full data preprocessing, feature engineering, model training, evaluation, and predictions. |
 
 
 
