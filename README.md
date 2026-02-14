@@ -12,11 +12,11 @@
 
 ✨ **Driven by curiosity and creativity**  
 
-I build for the web, explore computer graphics, and collaborate with others to transform complex ideas into intuitive software.
+I work across software development, computer graphics, distributed systems, and AI, focusing on scalable architectures and efficient, real-world solutions.
 
-- Informatics Engineering Student
-- Passionate about clean code & clever solutions
-- Exploring the intersection of tech & creativity
+- MSc Informatics and Computing Engineering Student
+- Focus on system design and optimization
+- Interested in scalable and intelligent systems
 - Always learning, always growing
 
 </td>
@@ -65,7 +65,7 @@ Visual Novel and Murder Mystery game developed during Random Game Jam 2023. Expl
 Interactive 3D scene with submarine controls, procedural coral generation using L-Systems, and fish flocking behaviors.
 
 **Tech:** Three.js, WebGL  
-[🎥 Demo](https://www.youtube.com/watch?v=Alm6Kqazb-8)
+[🎥 Demo](https://youtu.be/XJSCvQaC6uM)
 
 </td>
 </tr>
